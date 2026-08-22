@@ -11,7 +11,7 @@ Architecture
 
 Manual vs. Automated Methodology
 To ensure the AI's output is accurate and defensible, I first conducted a manual baseline assessment of a major South African vendor (Discovery Ltd). 
--  View the Manual Assessment Report in the `portfolio-assets` folder.
+-  View the Manual Assessment Report.
 -  The automated workflow was then calibrated to match the rigor of this manual process, reducing assessment time from ~45 minutes to <30 seconds.
 
 Tools Used
