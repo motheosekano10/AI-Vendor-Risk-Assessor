@@ -1,6 +1,3 @@
-# AI-Vendor-Risk-Assessor
-Automated GRC workflow for POPIA, ISO 27001, and King IV vendor risk assessments.
-
 AI-Powered Vendor Risk Assessor (POPIA / ISO 27001 / King IV)
 
 Overview
