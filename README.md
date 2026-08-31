@@ -13,7 +13,7 @@ Scenario 1: Web URL Assessor
 4. Discord Webhook: Sends an instant, formatted alert to the GRC team.
 
  Scenario 2: PDF Document Assessor
-1. Google Drive (Watch Folder): Triggers automatically when a new vendor PDF (e.g., SOC 2 Report, Security Questionnaire) is uploaded to the `GRC_Vendor_PDF_Inbox`.
+1. Google Drive (Watch Folder): Triggers automatically when a new vendor PDF (e.g SOC 2 Report, Security Questionnaire) is uploaded to the `GRC_Vendor_PDF_Inbox`.
 2. Google Drive (Download): Securely downloads the file payload.
 3. Google Gemini AI: Extracts and analyzes the PDF text using the same rigorous GRC prompt.
 4. Google Sheets & Discord: Logs the findings and alerts the team, maintaining a unified audit trail alongside Scenario 1.
